@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full Stack Devlopment.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shubbi20?tab=repositories](https://github.com/Abhiicode?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Abhiicode?tab=repositories](https://github.com/Abhiicode?tab=repositories)
 
 - 📫 How to reach me **abhiabhii2000@gmail.com**
 
