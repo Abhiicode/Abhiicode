@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhishek Jha</h1>
+<h1 align="center">Hi 👋, I'm Abhishek</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubbi20&label=Profile%20views&color=0e75b6&style=flat" alt="abhi23" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Devlopment.**
